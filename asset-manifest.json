@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Multiplayer-X-O/static/css/main.abc03d63.css",
+    "main.js": "/React-Multiplayer-X-O/static/js/main.b959e336.js",
+    "index.html": "/React-Multiplayer-X-O/index.html",
+    "main.abc03d63.css.map": "/React-Multiplayer-X-O/static/css/main.abc03d63.css.map",
+    "main.b959e336.js.map": "/React-Multiplayer-X-O/static/js/main.b959e336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc03d63.css",
+    "static/js/main.b959e336.js"
+  ]
+}
